@@ -121,6 +121,7 @@ Make sure the app is connected to the internet to access these models during use
 
 ### Links
 [Space](https://huggingface.co/spaces/JanaAlbader/Plant_Buddy/blob/main/requirements.txt) 
+
 [Video Walkthrough]() 
 
 ### 🚧 Future Enhancements
