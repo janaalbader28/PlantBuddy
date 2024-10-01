@@ -99,11 +99,11 @@ Listen to the audio fact in your selected language.
 ### 🌿 Plant Dictionaries
 The app has built-in dictionaries with plant care instructions and facts. If a plant is unrecognized, the app will provide default messages.
 
-Example: Aloe Vera Image
+Example: Rosemary Image
 
-Care: "Aloe Vera prefers bright, indirect sunlight. Water deeply but infrequently."
+Care: "Water when the top inch of soil is dry. Place in full sun and ensure good drainage."
 
-Fact: "Aloe Vera is known for its soothing properties and is often used in skincare."
+Fact: "Rosemary is an aromatic herb that is commonly used in cooking. It prefers full sun and well-drained soil"
 
 You can add more plants by expanding the plant_care_dict and plant_facts_dict.
 
