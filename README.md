@@ -118,8 +118,10 @@ Helsinki-NLP/opus-mt-en-ar (English to Arabic)
 
 Make sure the app is connected to the internet to access these models during use.
 
-### 🎥 Video Walkthrough
-For a detailed video on how to set up and use the app, watch the Video Walkthrough. 
+
+### Links
+[Space](https://huggingface.co/spaces/JanaAlbader/Plant_Buddy/blob/main/requirements.txt) 
+[Video Walkthrough]() 
 
 ### 🚧 Future Enhancements
 - Expand Plant Database: Add more plants with care instructions and facts.
