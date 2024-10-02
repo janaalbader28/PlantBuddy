@@ -120,7 +120,7 @@ Make sure the app is connected to the internet to access these models during use
 ### Links
 [Space](https://huggingface.co/spaces/JanaAlbader/Plant_Buddy/blob/main/requirements.txt) 
 
-[Video Walkthrough]() 
+[Video Walkthrough](https://drive.google.com/file/d/1CAmRcAlKD0jormfmZzfCXHW8mMhuL4cO/view?usp=drive_link) 
 
 ### Future Enhancements
 - Expand Plant Database: Add more plants with care instructions and facts.
